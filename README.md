@@ -3,8 +3,6 @@
 ## Introduction
 This module implements a computer vision algorithm to detect, classify, and count geometric shapes (Triangles, Squares, Rectangles, and Circles) from an input image. 
 
-It was developed as part of the Vortex Rangers ROV software tasks to demonstrate shape recognition capabilities, which are essential for autonomous underwater navigation and object identification.
-
 ## Features
 - **Noise Filtering:** Ignores small artifacts and background noise using area thresholding.
 - **Border Rejection:** Automatically filters out the page boundaries or large background elements.
